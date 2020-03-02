@@ -1,0 +1,16 @@
+# > docker dockerhub
+DOMAIN-KEYWORD,docker
+DOMAIN-KEYWORD,dockerhub
+DOMAIN,hub.docker.com
+
+# > ali os
+DOMAIN-KEYWORD,aliyun
+
+# > mvn repository
+DOMAIN-KEYWORD,mvnrepository
+
+# > rixcloud
+DOMAIN-KEYWORD,rixcloud
+
+# > github.com
+DOMAIN,github.com
